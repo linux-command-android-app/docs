@@ -7,4 +7,4 @@
 ## Documentation
 
 ### クラス仕様
-* [template](./class/_Template.md)
+* [template](class/_Template.md)
