@@ -15,3 +15,4 @@ description: Android Application
 
 ### クラス仕様
 * [template](class/_Template.md)
+* [test](class/test.md)
